@@ -1,5 +1,7 @@
 # Uganda Irrigation: Where It Is Needed and Where Water Is Within Reach
 
+> Part of a series on Uganda's agriculture. **[Read the synthesis of all five analyses →](https://tayeruta.github.io/uganda-agriculture/)**
+
 District-by-district analysis of irrigation need and water access across Uganda's 135 districts. It measures how often dry spells and failed seasons hit the growing season (1991–2025), whether they show up in crop condition, and whether rivers, lakes or groundwater lie within reach of the cropland that needs them. Built entirely from public satellite and survey data.
 
 **Read the report: [Where Uganda needs irrigation, and where water is within reach](https://tayeruta.github.io/uganda-irrigation/reports/irrigation_report.html)**

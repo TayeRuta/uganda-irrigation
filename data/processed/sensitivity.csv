@@ -1,0 +1,11 @@
+variant,need rank correlation,priority districts,shared with main list,main list kept (%)
+season cut-off 0.5,0.914,28,26,89.655
+season cut-off 0.7,0.944,30,29,100.0
+dry day < 1 mm,0.958,28,26,89.655
+dry day < 5 mm,0.856,36,24,82.759
+dry spell 10+ days,0.94,29,28,96.552
+dry spell 21+ days,0.822,24,21,72.414
+failed below 60%,0.841,35,25,86.207
+failed below 85%,0.91,29,24,82.759
+water: 5% near surface water or 25% good boreholes,1.0,41,29,100.0
+water: 20% near surface water or 75% good boreholes,1.0,16,16,55.172

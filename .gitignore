@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Large downloads, re-created by scripts/fetch_data.py
+# (Africa-wide and global grids; the Uganda district summaries are in data/processed/)
+data/raw/boundaries/uga_admin2.geojson
+data/raw/boundaries/uga_admin_boundaries.geojson.zip
+data/raw/groundwater/
+data/raw/gmia/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+
+# Daily rainfall export (55 MB); the compressed copy (.csv.gz) is committed
+data/raw/earth_engine/uga_district_rain_daily.csv

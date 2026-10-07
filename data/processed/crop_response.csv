@@ -1,0 +1,11 @@
+districts,measure,NDVI change (x1000),t,windows,typical NDVI swing (x1000)
+All districts,rain +1 SD,10.804,9.075,6288,26.521
+All districts,14+ day dry spell,-10.438,-4.652,6288,26.521
+Central,rain +1 SD,7.398,4.757,1200,22.717
+Central,14+ day dry spell,10.944,2.331,1200,22.717
+Eastern,rain +1 SD,13.514,7.878,1728,25.693
+Eastern,14+ day dry spell,-16.035,-4.783,1728,25.693
+Northern,rain +1 SD,12.652,6.257,1776,32.361
+Northern,14+ day dry spell,-16.329,-3.134,1776,32.361
+Western,rain +1 SD,8.357,5.32,1584,22.54
+Western,14+ day dry spell,-0.171,-0.039,1584,22.54
